@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋!
+My name is Lucas Nunes and I'm a Web Developer woking in Lavras, Brazil.
 
-<!--
-**diizk/diizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BIO
+- 🔭 I'm currently working on Web Developement
+- 😄 Pronouns: He/Him
+- ⚙️ I use daily: .php, .js, .html, .css
+- 🌍 I'm mostly active within the Laravel Community
+- 🌱 I’m currently learning Laravel
+- 📫 Reach me: twitter.com/bydiizk, contato.lucasnunes2@gmail.com
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Working with / in progress
+<div style="display: inline-block"<br>
+  <img style="max-width: 100%; height="30" width="42" alt="php logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img style="max-width: 100%; height="30" width="42" alt="laravel logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img style="max-width: 100%; height="30" width="42" alt="c++ logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+  <img style="max-width: 100%; height="30" width="42" alt="html logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img style="max-width: 100%; height="30" width="42" alt="css logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</div>
