@@ -1,5 +1,5 @@
 ### Hi there 👋!
-My name is Lucas Nunes and I'm a Web Developer woking in Lavras, Brazil.
+My name is Lucas Nunes and I'm a Web Developer working in Lavras, Brazil.
 
 ### BIO
 - 🔭 I'm currently working on Web Developement
