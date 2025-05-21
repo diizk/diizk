@@ -4,8 +4,8 @@ My name is Lucas Nunes and I'm a Web Developer working in Lavras, Brazil.
 ### BIO
 - 🔭 I'm currently working on Web Developement
 - 😄 Pronouns: He/Him
-- ⚙️ I use daily: .php, .js, .html, .css
-- 🌱 I’m currently learning Laravel
+- ⚙️ I use daily: .php, .js, .html, .css, .rb
+- 🌱 I’m currently learning Java
 - 📫 Reach me: twitter.com/bydiizk, contato.lucasnunes2@gmail.com
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
