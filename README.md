@@ -16,4 +16,5 @@ My name is Lucas Nunes and I'm a Web Developer working in Lavras, Brazil.
   <img style="max-width: 100%; height="30" width="42" alt="c++ logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img style="max-width: 100%; height="30" width="42" alt="html logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img style="max-width: 100%; height="30" width="42" alt="css logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img style="max-width: 100%; height="30" width="42" alt="css logo" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rails/rails-plain.svg" />
 </div>
