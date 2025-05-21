@@ -2,7 +2,7 @@
 My name is Lucas Nunes and I'm a Web Developer working in Lavras, Brazil.
 
 ### ALERT ❗ ❗ ❗
-### I use this GitHub account only for college projects and small personal projects. Most of my code is private and/or belongs to companies I've worked for
+### ⚠️I use this GitHub account only for college projects and small personal projects. Most of my code is private and/or belongs to companies I've worked for⚠️
 
 ### BIO
 - 📚 Education: Graduated in Systems Analysis and Development
